@@ -1,5 +1,5 @@
 # ProjetoKlabin
-#### Autores: José Octávio Conti de Sousa & Milton Boos Junior
+##### Autores: José Octávio Conti de Sousa & Milton Boos Junior
 
 ### Projeto para cadastramento de procedimentos de bloqueio de máquinas industriais.
 Sobre o projeto
