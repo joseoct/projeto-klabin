@@ -7,3 +7,8 @@ Aplicativo piloto feito para a produtora e exportadora de papéis Klabin para au
 
 - Aplicativo desenvolvido através do ionic framework 
 - Este será portável para as plataformas Android e IOS
+
+# Tecnologias utilizadas:
+- Ionic 4
+- Angular 7
+- Cordova 9
