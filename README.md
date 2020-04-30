@@ -1,7 +1,17 @@
-# ProjetoKlabin
+
+<p align="center">
+  <img src="./src/assets/logo.png" height="200" alt="klabin-procedures" />
+</p>
+
+<h4 align="center">
+  Projeto para cadastramento de procedimentos de bloqueio de máquinas industriais.
+</h3>
+    
+<br>
+<br>
+
 ##### Autores: José Octávio Conti de Sousa & Milton Boos Junior
 
-### Projeto para cadastramento de procedimentos de bloqueio de máquinas industriais.
 #### Sobre o projeto
 Aplicativo piloto feito para a produtora e exportadora de papéis Klabin para automatizar o cadastramento de bloqueios de máquinas para ser feita sua manutenção
 
