@@ -3,7 +3,7 @@
   <img src="./src/assets/logo.png" height="200" alt="klabin-procedures" />
 </p>
 
-<h4 align="center">
+<h3 align="center">
   Projeto para cadastramento de procedimentos de bloqueio de máquinas industriais.
 </h3>
     
