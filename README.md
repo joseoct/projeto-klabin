@@ -8,7 +8,6 @@
 </h3>
     
 <br>
-<br>
 
 ##### Autores: José Octávio Conti de Sousa & Milton Boos Junior
 
